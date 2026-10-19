@@ -7,7 +7,7 @@ public class Main {
         Book book2 = new Book("Преступление и наказание", author2, 1866);
 
         // Изменяем год публикации первой книги
-        book1.setPublicationYear(1869);
+        book1.setPublicationYear(1870);
 
         // Выводим информацию о книгах
         System.out.println("Название: " + book1.getTitle());
