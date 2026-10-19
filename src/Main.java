@@ -3,7 +3,7 @@ public class Main {
         Author author1 = new Author("Лев", "Толстой");
         Author author2 = new Author("Фёдор", "Достоевский");
 
-        Book book1 = new Book("Война и мир", author1, 1869);
+        Book book1 = new Book("Война и мир", author1, 1868);
         Book book2 = new Book("Преступление и наказание", author2, 1866);
 
         // Изменяем год публикации первой книги
